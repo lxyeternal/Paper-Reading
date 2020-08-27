@@ -25,3 +25,17 @@ TextBugger：针对真实应用生成对抗文本
 <img width="260" height="450" src="https://github.com/wenboi/Paper-Reading/master/image/4.png"/>
 </div>
 
+
+### 5.VulDeePecker- A Deep Learning-Based System for Vulnerability Detection
+基于深度学习的漏洞检测系统
+<div align="center">
+<img width="260" height="450" src="https://github.com/wenboi/Paper-Reading/master/image/5.png"/>
+</div>
+
+
+### 5.Heterogeneous Graph Attention Network
+2019-WWW-异质图注意力网络
+<div align="center">
+<img width="260" height="450" src="https://github.com/wenboi/Paper-Reading/master/image/6.png"/>
+</div>
+
