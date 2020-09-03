@@ -39,3 +39,10 @@ TextBugger：针对真实应用生成对抗文本
 <img width="260" height="450" src="https://github.com/lxyeternal/Paper-Reading/blob/master/image/6.png" />
 </div>
 
+
+### 7.MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding
+2020-WWW-异构图嵌入的元路径聚合图神经网络
+<div align="center">
+<img width="260" height="450" src="https://github.com/lxyeternal/Paper-Reading/blob/master/image/7.png" />
+</div>
+
