@@ -46,3 +46,10 @@ TextBugger：针对真实应用生成对抗文本
 <img width="260" height="450" src="https://github.com/lxyeternal/Paper-Reading/blob/master/image/7.png" />
 </div>
 
+
+### 8.SPAGAN-Shortest Path Graph Attention Network
+2019-IJCAL-最短路径图注意力网络
+<div align="center">
+<img width="260" height="450" src="https://github.com/lxyeternal/Paper-Reading/blob/master/image/8.png" />
+</div>
+
