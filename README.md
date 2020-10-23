@@ -53,3 +53,9 @@ TextBugger：针对真实应用生成对抗文本
 <img width="260" height="450" src="https://github.com/lxyeternal/Paper-Reading/blob/master/image/8.png" />
 </div>
 
+### 9.Heterogeneous Information Network Embedding with Convolutional Graph Attention Networks
+2020-IJCNN-异构信息网络嵌入卷积图注意力网络
+<div align="center">
+<img width="260" height="450" src="https://github.com/lxyeternal/Paper-Reading/blob/master/image/9.png" />
+</div>
+
