@@ -65,3 +65,9 @@
 <img width="260" height="450" src="https://github.com/lxyeternal/Paper-Reading/blob/master/image/10.png" />
 </div>
 
+
+### 11.Graph Attention Networks
+2018-ICLR-图注意力网络
+<div align="center">
+<img width="260" height="450" src="https://github.com/lxyeternal/Paper-Reading/blob/master/image/11.png" />
+</div>
