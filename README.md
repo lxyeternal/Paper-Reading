@@ -71,3 +71,10 @@
 <div align="center">
 <img width="260" height="450" src="https://github.com/lxyeternal/Paper-Reading/blob/master/image/11.png" />
 </div>
+
+
+### 12.HinCTI:A Cyber Threat Intelligence Modeling and Identification System Based on Heterogeneous Information Network
+2020-TKDE-HinCTI：基于异构信息网络的威胁情报建模与识别系统
+<div align="center">
+<img src="https://github.com/lxyeternal/Paper-Reading/blob/master/image/12.png" />
+</div>
