@@ -78,3 +78,9 @@
 <div align="center">
 <img src="https://github.com/lxyeternal/Paper-Reading/blob/master/image/12.png" />
 </div>
+
+### 13.MVP: Detecting Vulnerabilities using Patch-Enhanced Vulnerability Signatures
+2020-USENIX-使用补丁程序增强的漏洞签名检测漏洞
+<div align="center">
+<img src="https://github.com/lxyeternal/Paper-Reading/blob/master/image/mvp.png" />
+</div>
