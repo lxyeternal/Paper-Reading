@@ -1,5 +1,5 @@
 # Paper-Reading
-主要是自己看过的一些论文，同时做了对应的思维导图，以供大家参考学习。
+主要是自己看过的一些论文，同时做了对应的思维导图以及论文笔记，以供大家参考学习。
 
 ### 1.GRAPH2SEQ: GRAPH TO SEQUENCE LEARNING WITH ATTENTION-BASED NEURAL NETWORKS
 2019-ICLR-Graph2Seq：基于注意力的神经网络进行图形到序列的学习
@@ -83,4 +83,10 @@
 2020-USENIX-使用补丁程序增强的漏洞签名检测漏洞
 <div align="center">
 <img src="https://github.com/lxyeternal/Paper-Reading/blob/master/image/mvp.png" />
+</div>
+
+### 14.PBCNN: Packet Bytes-based Convolutional Neural Network for Network Intrusion Detection
+2021-CN-基于分组字节的卷积神经网络的网络入侵检测
+<div align="center">
+<img src="https://github.com/lxyeternal/Paper-Reading/blob/master/image/pbcnn.png" />
 </div>
