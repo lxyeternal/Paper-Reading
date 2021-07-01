@@ -90,3 +90,13 @@
 <div align="center">
 <img src="https://github.com/lxyeternal/Paper-Reading/blob/master/image/pbcnn.png" />
 </div>
+
+
+### 15.图神经网络综述
+介绍图神经网络的相关模型以及框架
+<div align="center">
+<img src="https://github.com/lxyeternal/Paper-Reading/blob/master/image/survey_graph.png" />
+</div>
+
+
+
